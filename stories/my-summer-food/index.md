@@ -13,7 +13,7 @@ tags:
 ---
 
 # Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+This story comes from Michelle Dombrowski, who grew up in Milwaukee, Wisconsin, where summer is king and all the foods that go along with it.  
 
 {% include figure.html
   class="right"
