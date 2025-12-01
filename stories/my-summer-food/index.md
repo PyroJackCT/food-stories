@@ -21,7 +21,7 @@ This story comes from Michelle Dombrowski, who grew up in Milwaukee, Wisconsin, 
   class="right"
   width="40%"
   caption="Food, Fun, and Summer"
-  image-path="summer-fun-times.png"
+  image-path="assets/summer-fun-times.png"
 %}
 
 
@@ -30,7 +30,7 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 
 
 {% include audio.html
-  src="summer-food-story.mp3"
+  src="assets/summer-food-story.mp3"
 %}
 
 
