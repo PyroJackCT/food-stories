@@ -18,8 +18,8 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="I often find the simplest things bring me the most joy."
+  image-path="Musubi.png"
 %}
 
 
@@ -28,7 +28,7 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 
 
 {% include audio.html
-  src="bbq.mp3"
+  src="Hawaii.mp3"
 %}
 
 
